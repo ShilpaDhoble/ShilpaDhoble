@@ -1,19 +1,31 @@
-Hi, I'm Shilpa 👋
+Hi, I'm Shilpa Dhoble 👋
 
-Software Engineer with 10+ years of experience in Python, .NET, C#, SQL, and SSIS.
+AI Engineer with 10+ years of experience designing and developing enterprise software solutions using Python, C#, .NET, SQL, and SSIS.
 
-I am currently transitioning into Applied AI Engineering and building expertise in:
-- LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI Systems
-- FastAPI
-- Production AI Workflows
+I specialize in building practical AI applications that combine Large Language Models (LLMs) with robust software engineering principles to solve real business problems.
 
-I am documenting my learning journey and building projects publicly.
+Areas of Focus:
+Applied AI Engineering
+LLM-powered Applications
+Retrieval-Augmented Generation (RAG)
+Agentic AI Systems
+AI Workflow Automation
+FastAPI and Backend Development
+Production-Ready AI Solutions
+
+Professional Background
+Over the past decade, I have delivered enterprise applications across diverse technology stacks, with expertise in backend development, integrations, database systems, and scalable software design.
+I am currently focused on leveraging this engineering foundation to build intelligent systems that enhance productivity, automate workflows, and improve customer experiences.
+
+Current Learning Journey
+I believe the future belongs to engineers who can bridge the gap between traditional software engineering and artificial intelligence. I am actively building and sharing real-world AI projects that demonstrate this intersection.
+
+Technology Stack
+Python • C# • .NET • SQL • FastAPI • Generative AI • RAG • Agentic Workflows • Git • Docker
 
 
-Tech Stack:
-Python | C# | .NET | SQL | FastAPI | Generative AI## Hi there 👋
+Connect
+I am interested in opportunities involving Applied AI, AI Engineering, and enterprise AI transformation initiatives. :::
 
 <!--
 **ShilpaDhoble/ShilpaDhoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
